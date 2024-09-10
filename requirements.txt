@@ -1,0 +1,3 @@
+azure-functions
+    # Required for the Azure Functions runtime
+    azure-functions-worker
